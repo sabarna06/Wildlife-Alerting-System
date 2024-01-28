@@ -34,4 +34,7 @@ Parallel Processing Capabilities: Leverage the parallel processing capabilities 
 Conclusion
 By integrating the InteloneAPI Analytics Toolkit, we aim to enhance the efficiency and performance of our human and animal detection models. The seamless incorporation of oneDAL's capabilities underscores our commitment to utilizing cutting-edge technologies for optimal predictive accuracy. This integration exemplifies our dedication to staying at the forefront of advancements in data analytics and ensuring that our models operate efficiently and effectively in real-world scenarios.
 
+https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/02364366-507d-44f7-ad31-4e0e816fb38a
+
+
 
