@@ -33,3 +33,4 @@ Ease of Implementation: Seamless integration of oneDAL APIs provides a user-frie
 Parallel Processing Capabilities: Leverage the parallel processing capabilities of oneDAL for efficient computation across diverse hardware architectures.
 Conclusion
 By integrating the InteloneAPI Analytics Toolkit, we aim to enhance the efficiency and performance of our human and animal detection models. The seamless incorporation of oneDAL's capabilities underscores our commitment to utilizing cutting-edge technologies for optimal predictive accuracy. This integration exemplifies our dedication to staying at the forefront of advancements in data analytics and ensuring that our models operate efficiently and effectively in real-world scenarios.
+https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/5049d381-d56d-43dc-9fa7-065c7bbf143b
