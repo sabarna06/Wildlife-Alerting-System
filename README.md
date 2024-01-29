@@ -20,7 +20,7 @@ Include oneDAL Library: Integrate the oneDAL library into the human detection mo
 # Optimized Computations:
  Utilize oneDAL for low-level compute optimizations, enhancing the performance of key data processing tasks.
 
-Parallel Processing with DPC++: Leverage the Data Parallel C++ (DPC++) programming model provided by oneAPI for parallel processing across CPUs, GPUs, and accelerators.
+ Parallel Processing with DPC++: Leverage the Data Parallel C++ (DPC++) programming model provided by oneAPI for parallel processing across CPUs, GPUs, and accelerators.
 
 # Memory Optimization:
  Implement memory optimization strategies supported by oneDAL, including efficient data layout, minimized data movement, and cache-friendly data structures
