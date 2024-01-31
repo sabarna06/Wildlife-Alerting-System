@@ -13,6 +13,10 @@ The Gradio library serves as the backbone for seamlessly combining both human an
 # OneAPI
 
 # Introduction
+
+![WhatsApp Image 2024-01-31 at 14 05 04](https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/7f88bae9-5c42-4ead-99e8-02bd0c54d3a3)
+
+
 Welcome to our advanced Human and Animal Detection project, where we seamlessly integrate the oneAPI AI Analytics Toolkit, specifically leveraging the oneDAL (Data Analytics Library) for optimizing our machine learning models. This project encompasses two distinct models: one designed for detecting the presence of humans in wildlife areas, and another tailored for identifying various animals. The integration of the oneAPI AI Analytics Toolkit enhances the overall performance and efficiency of our models.
 # Prerequisites:
 # Intel oneAPI Toolkit 
