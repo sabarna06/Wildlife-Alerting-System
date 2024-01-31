@@ -174,4 +174,10 @@ By integrating the InteloneAPI Analytics Toolkit, we aim to enhance the efficien
 # PRESENTATION VIDEO
 https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/5641126c-888e-41ed-ad85-6d9bdfd8feea
 
+# Future Development
+
+By implementing the aforementioned code, a robust foundation for wildlife detection has been laid. Building upon this, the project can be extended to address critical scenarios such as animal and human intrusion detection in real-time. By integrating live video feeds into the system, the model can continuously analyze the incoming streams. In case of animal detection, immediate alerts can be disseminated to nearby villagers individually to ensure their safety, particularly in regions with wildlife proximity. Simultaneously, alerts can be routed to designated forest authorities or proctoring personnel who can take timely action to mitigate potential threats.
+
+This dual-alert system serves a dual purpose: safeguarding human communities from unexpected wildlife encounters and facilitating wildlife conservation efforts by allowing swift responses to animal activities. The seamless integration of detection capabilities not only enhances the safety of local residents but also empowers wildlife conservationists with valuable insights. The project thus emerges as a versatile solution that contributes to the coexistence of humans and wildlife while fostering a proactive approach to conservation and safety measures.
+
 
