@@ -36,19 +36,19 @@ from tensorflow.keras.preprocessing.image import img_to_array
 
 Wildlife Alerting System - Workflow
 
-Prerequisites:
+# Prerequisites:
 
-Python Environment:
+* Python Environment:
 
 Ensure that you have Python installed on your system. You can download it from python.org.
 Recommended Python version: 3.6 or above.
-Jupyter Notebook:
+* Jupyter Notebook:
 
 Install Jupyter Notebook for an interactive development environment. You can install it using:
 bash
 Copy code
 pip install notebook
-Required Python Libraries:
+* Required Python Libraries:
 
 Install the necessary Python libraries using the following commands:
 bash
@@ -58,11 +58,11 @@ pip install gradio
 pip install tensorflow
 pip install scikit-learn
 pip install matplotlib
-Kaggle Account:
+* Kaggle Account:
 
 Create an account on Kaggle (https://www.kaggle.com/).
 Generate an API key on Kaggle: Navigate to your Kaggle account settings, scroll down to the API section, and click "Create New API Token." Save the kaggle.json file that is downloaded.
-Google Colab (Optional):
+* Google Colab (Optional):
 
 If you plan to run the code on Google Colab, ensure you have a Google account.
 Upload your kaggle.json file to your Google Colab environment.
@@ -70,23 +70,23 @@ Dataset:
 
 Download the wildlife dataset (human-detection-dataset.zip) from Kaggle: Wildlife Dataset.
 Extract the contents of the ZIP file.
-Additional Setup (if using Colab):
+* Additional Setup (if using Colab):
 
 Run the provided code snippets for uploading kaggle.json and installing required packages.
 Data Preprocessing and Model Training:
 
-Load and Preprocess Data:
+* Load and Preprocess Data:
 
 Follow the provided code to load and preprocess the wildlife dataset. Adjust file paths accordingly.
-Human Detection Model:
+* Human Detection Model:
 
 Train the human detection model using the provided code snippets.
 Evaluate the model's accuracy and save the trained model.
-Animal Detection Model:
+* Animal Detection Model:
 
 If you have a separate dataset for animal detection, follow similar steps to train the animal detection model.
 Evaluate and save the animal detection model.
-Gradio Setup:
+* Gradio Setup:
 
 Install Gradio:
 
@@ -94,20 +94,20 @@ Install Gradio using the command:
 bash
 Copy code
 pip install gradio
-Gradio Interface:
+* Gradio Interface:
 
 Load the trained human detection and animal detection models.
 Create a Gradio interface for interactive predictions.
 Launch Gradio Interface:
 
 Launch the Gradio interface and test the wildlife alerting system interactively.
-Running the Code:
+* Running the Code:
 
 Execute Steps:
 
 Execute the Kaggle setup steps to download and preprocess the dataset.
 Run the Data Preprocessing and Model Training steps for both human and animal detection models.
-Gradio Interface:
+* Gradio Interface:
 
 Run the Gradio Setup steps to set up the web interface.
 Execute the Gradio interface to make predictions interactively.
