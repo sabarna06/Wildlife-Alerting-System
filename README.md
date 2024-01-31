@@ -9,6 +9,11 @@ The animal detection model also employs the MobileNetV2 architecture, benefiting
 
 # Integrated Gradio Interface:
 The Gradio library serves as the backbone for seamlessly combining both human and animal detection models into a unified interface. This interface allows users, including wildlife researchers, conservationists, and enthusiasts, to effortlessly upload images and receive instant feedback on the presence of humans and the identification of animals. The integration aims to democratize access to advanced computer vision capabilities and make them accessible to a broader audience.
+
+# OneAPI
+
+# Introduction
+Welcome to our advanced Human and Animal Detection project, where we seamlessly integrate the oneAPI AI Analytics Toolkit, specifically leveraging the oneDAL (Data Analytics Library) for optimizing our machine learning models. This project encompasses two distinct models: one designed for detecting the presence of humans in wildlife areas, and another tailored for identifying various animals. The integration of the oneAPI AI Analytics Toolkit enhances the overall performance and efficiency of our models.
 # Prerequisites:
 # Intel oneAPI Toolkit 
 Download and install the latest version of the Intel oneAPI Toolkit.
