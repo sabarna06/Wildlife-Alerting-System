@@ -16,6 +16,84 @@ The Gradio library serves as the backbone for seamlessly combining both human an
 
 ![WhatsApp Image 2024-01-31 at 14 05 04](https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/7f88bae9-5c42-4ead-99e8-02bd0c54d3a3)
 
+Wildlife Alerting System - Workflow
+
+Prerequisites:
+
+Python Environment:
+
+Ensure that you have Python installed on your system. You can download it from python.org.
+Recommended Python version: 3.6 or above.
+Jupyter Notebook:
+
+Install Jupyter Notebook for an interactive development environment. You can install it using:
+bash
+Copy code
+pip install notebook
+Required Python Libraries:
+
+Install the necessary Python libraries using the following commands:
+bash
+Copy code
+pip install opencv-python
+pip install gradio
+pip install tensorflow
+pip install scikit-learn
+pip install matplotlib
+Kaggle Account:
+
+Create an account on Kaggle (https://www.kaggle.com/).
+Generate an API key on Kaggle: Navigate to your Kaggle account settings, scroll down to the API section, and click "Create New API Token." Save the kaggle.json file that is downloaded.
+Google Colab (Optional):
+
+If you plan to run the code on Google Colab, ensure you have a Google account.
+Upload your kaggle.json file to your Google Colab environment.
+Dataset:
+
+Download the wildlife dataset (human-detection-dataset.zip) from Kaggle: Wildlife Dataset.
+Extract the contents of the ZIP file.
+Additional Setup (if using Colab):
+
+Run the provided code snippets for uploading kaggle.json and installing required packages.
+Data Preprocessing and Model Training:
+
+Load and Preprocess Data:
+
+Follow the provided code to load and preprocess the wildlife dataset. Adjust file paths accordingly.
+Human Detection Model:
+
+Train the human detection model using the provided code snippets.
+Evaluate the model's accuracy and save the trained model.
+Animal Detection Model:
+
+If you have a separate dataset for animal detection, follow similar steps to train the animal detection model.
+Evaluate and save the animal detection model.
+Gradio Setup:
+
+Install Gradio:
+
+Install Gradio using the command:
+bash
+Copy code
+pip install gradio
+Gradio Interface:
+
+Load the trained human detection and animal detection models.
+Create a Gradio interface for interactive predictions.
+Launch Gradio Interface:
+
+Launch the Gradio interface and test the wildlife alerting system interactively.
+Running the Code:
+
+Execute Steps:
+
+Execute the Kaggle setup steps to download and preprocess the dataset.
+Run the Data Preprocessing and Model Training steps for both human and animal detection models.
+Gradio Interface:
+
+Run the Gradio Setup steps to set up the web interface.
+Execute the Gradio interface to make predictions interactively.
+Ensure to adapt the code and file paths based on your project structure a
 
 Welcome to our advanced Human and Animal Detection project, where we seamlessly integrate the oneAPI AI Analytics Toolkit, specifically leveraging the oneDAL (Data Analytics Library) for optimizing our machine learning models. This project encompasses two distinct models: one designed for detecting the presence of humans in wildlife areas, and another tailored for identifying various animals. The integration of the oneAPI AI Analytics Toolkit enhances the overall performance and efficiency of our models.
 # Prerequisites:
