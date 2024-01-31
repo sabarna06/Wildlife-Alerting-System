@@ -40,6 +40,8 @@ By integrating the InteloneAPI Analytics Toolkit, we aim to enhance the efficien
 
 <img width="1440" alt="Screenshot 2024-01-30 at 2 06 45 PM" src="https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/6b63286f-70d5-4baf-ad67-cbeaf0823e3c">
 
+<img width="1440" alt="Screenshot 2024-01-30 at 2 16 38 PM" src="https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/e44c02c6-31a5-457c-9d73-25b1e1f7dbaa">
+
 
 
 # Output 
