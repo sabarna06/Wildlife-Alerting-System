@@ -39,19 +39,20 @@ By integrating the InteloneAPI Analytics Toolkit, we aim to enhance the efficien
 ![VISUAL REPRESENTATION](https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/a4058764-1be3-4932-b325-dc169978b986)
 
 # Output 
+# Human detection
+
 <img width="1440" alt="Screenshot 2024-01-30 at 2 14 03 PM" src="https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/256c3d57-b9a3-4cce-bc30-b796806b7183">
 
 <img width="1440" alt="Screenshot 2024-01-30 at 2 04 52 PM" src="https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/a7e45622-0350-43fa-90ba-4e44dae31a04">
 
 <img width="1440" alt="Screenshot 2024-01-30 at 2 06 45 PM" src="https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/6b63286f-70d5-4baf-ad67-cbeaf0823e3c">
 
-<img width="1440" alt="Screenshot 2024-01-30 at 2 16 38 PM" src="https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/e44c02c6-31a5-457c-9d73-25b1e1f7dbaa">
+# Animal detection
 
 <img width="1440" alt="Screenshot 2024-01-30 at 8 36 34 PM" src="https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/eeba9b5f-5cdd-4a22-8c13-8ac6f9484461">
 
 <img width="1440" alt="Screenshot 2024-01-30 at 8 37 33 PM" src="https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/e2fa2cc4-0479-4dd6-9b27-e47b1a3e1aef">
 
-<img width="1440" alt="Screenshot 2024-01-30 at 8 38 33 PM" src="https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/bc9f364a-7e35-4260-9a8a-6fe55242be33">
 
 # PRESENTATION VIDEO
 https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/5641126c-888e-41ed-ad85-6d9bdfd8feea
