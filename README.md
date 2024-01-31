@@ -18,12 +18,19 @@ The Gradio library serves as the backbone for seamlessly combining both human an
 
 
 Before executing the code These commands will ensure that your environment has the necessary libraries installed for the provided code to run successfully.
+
 !pip install gradio
+
 import gradio as gr
+
 import cv2
+
 import numpy as np
+
 import tensorflow as tf
+
 from tensorflow.keras.applications import MobileNetV2
+
 from tensorflow.keras.preprocessing.image import img_to_array
 
 
