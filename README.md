@@ -16,6 +16,17 @@ The Gradio library serves as the backbone for seamlessly combining both human an
 
 ![WhatsApp Image 2024-01-31 at 14 05 04](https://github.com/sabarna06/Wildlife-Alerting-System/assets/155043288/7f88bae9-5c42-4ead-99e8-02bd0c54d3a3)
 
+
+Before executing the code These commands will ensure that your environment has the necessary libraries installed for the provided code to run successfully.
+!pip install gradio
+import gradio as gr
+import cv2
+import numpy as np
+import tensorflow as tf
+from tensorflow.keras.applications import MobileNetV2
+from tensorflow.keras.preprocessing.image import img_to_array
+
+
 Wildlife Alerting System - Workflow
 
 Prerequisites:
